@@ -1,4 +1,4 @@
-cabecalho {
+.cabecalho {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,7 +9,7 @@ cabecalho {
 }
 
 .cabecalho .titulo {
-    color:	#0D6EFD;
+    color:  #0D6EFD;
     text-align: center;
     font-family: 'Zen Dots';
     font-size: 26px;
